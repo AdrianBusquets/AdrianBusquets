@@ -1,4 +1,4 @@
-### `rgb(9, 105, 218)` Hola soy Adrian 👋
+### Hola soy Adrian 👋
 
 <img src="codegit.gif" width="100%" height="50%"/>
 <!--
