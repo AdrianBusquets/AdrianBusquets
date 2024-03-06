@@ -1,4 +1,4 @@
-<h1 align: "center;"> Hola soy Adrian 👋</h1>
+<h1 align: "center"> Hola soy Adrian 👋</h1>
 
 <img src="codegit.gif" width="100%" height="50%"/>
 <!--
