@@ -1,4 +1,4 @@
-<h1 style="display:flex; justify-content:center;"> Hola soy Adrian 👋</h1>
+### `rgb(9, 105, 218)` Hola soy Adrian 👋
 
 <img src="codegit.gif" width="100%" height="50%"/>
 <!--
