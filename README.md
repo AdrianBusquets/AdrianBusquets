@@ -1,6 +1,6 @@
 ### Hola soy Adrian 👋
 
-<img src="codegit.gif" width="100%"/>
+<img src="codegit.gif" height="50%" width="100%"/>
 <!--
 **AdrianBusquets/AdrianBusquets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
