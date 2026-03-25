@@ -16,7 +16,21 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,vscode,bootstrap,tailwind,netlify,react,postgresql" />
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=php" title="PHP" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=react" title="React" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" width="40" height="40" />
+    </p>
   </a>
 </p>
 
