@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=249E6B&center=true&vCenter=true&width=600&lines=Hola+soy+Adrian!+👋;Developer+Full+Stack+2026;PHP+y+Laravel+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=249E6B&center=true&vCenter=true&width=600&lines=Hola+soy+Adrián!+👋;Developer+Full+Stack+2026;PHP+y+Laravel+Expert" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,vscode,bootstrap,tailwind,netlify" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,vscode,bootstrap,tailwind,netlify,react,postgresql" />
   </a>
 </p>
 
