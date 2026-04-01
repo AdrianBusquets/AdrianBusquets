@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/hacker.gif" alt="Hacker GIF" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdrianBusquets&color=249e6b&style=flat-square&label=VISTAS+2026" alt="Profile Views" />
 </p>
 
