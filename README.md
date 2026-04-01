@@ -30,13 +30,6 @@
   </a>
 </p>
 
----
-
-## 📊 Dominio Técnico
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianBusquets&layout=compact&locale=es&theme=radical&bg_color=111111&hide_border=true" alt="Top Lenguajes" />
-</p>
 
 ---
 
