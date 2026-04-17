@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <p align="center">
+    <p class="flex" align="center">
       <img src="https://skillicons.dev/icons?i=php" title="PHP" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" width="40" height="40" />
       <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="40" height="40" />
